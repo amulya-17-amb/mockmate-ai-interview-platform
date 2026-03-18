@@ -19,7 +19,11 @@ MockMate is a full-stack AI-powered platform designed to simulate real-world tec
 - Frontend: React (Vite)  
 - Database: MySQL  
 - Security: JWT Authentication  
-- AI Integration: OpenAI / NLP  
+- AI Integration: OpenAI / NLP
+ ## ⭐ Highlights
+- Full-stack project (Spring Boot + React)
+- AI-based evaluation system
+- Real-world interview simulation
 
 ---
 
